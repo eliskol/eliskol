@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - eliskol
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - eliskol/machine-learning
+  - eliskol/computation-and-modeling-homework
+  - eliskol/games
+  - cluster-nine-hopfield/hopfield
