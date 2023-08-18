@@ -5,4 +5,8 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Current Research Project: Cluster Algebras
+
+***
+
+I'm currently working on a research project right now. It revolves around these two papers
