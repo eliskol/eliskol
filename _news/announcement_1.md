@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: Current Research Project—Cluster Algebras
+date: 2023-8-17 19:35:00-0400
+inline: false
 related_posts: false
 ---
 
-Current Research Project: Cluster Algebras
 
 ***
 
